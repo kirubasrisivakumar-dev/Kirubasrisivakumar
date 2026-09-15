@@ -1,1 +1,136 @@
-<h1 align="center">Hi 👋, I'm KIRUBA SRI S</h1> <h3 align="center"> 🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter= true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+ %7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A wesome!" /> </p>--## 🚀 About Me- 💻 I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.- 🚀 I enjoy turning ideas into real-world projects.- 🌱 Currently learning **Next.js, TypeScript, and Cloud Technologies**.- 🤝 Open to collaborating on exciting web development and opensource projects.- 📚 Always exploring modern technologies and best development practices.- ⚡ Fun Fact: **I love solving coding challenges and building useful applications.**--## 🌐 Connect With Me<p align="left"> <a href="[LinkedIn URL]"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=forthe-badge&logo=linkedin"/> </a> <a href="[Portfolio URL]"> <img src="https://img.shields.io/badge/Portfolio-000000?style=forthe-badge&logo=vercel"/> </a> <a href="mailto:[Email Address]"> <img src="https://img.shields.io/badge/Email-D14836?style=for-thebadge&logo=gmail"/> </a> </p>--# 💻 Tech Stack <p align="center"> <img src="https://skillicons.dev/icons? i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase, tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/> </p>--# 🚀 Featured Projects ## 🌍 Portfolio Website Modern personal portfolio showcasing projects, skills, and experience.**Tech Stack** `HTML` `CSS` `JavaScript` `React` 🔗 Live Demo: [Portfolio URL] 📂 Repository: [GitHub Repository]--## 🛒 E-Commerce Website A responsive online shopping platform with authentication and cart functionality. **Tech Stack** `React` `Node.js` `Express` `MongoDB` 🔗 Live Demo: [Project URL] 📂 Repository: [GitHub Repository]--## ✅ Task Management App A productivity application to organize daily tasks with authentication. **Tech Stack** `React` `Firebase` `Tailwind CSS` 🔗 Live Demo: [Project URL] 📂 Repository: [GitHub Repository]--# 📊 GitHub Stats<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api? username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord er=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/ top-langs/? username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/> </p>--# 🔥 GitHub Streak <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/? user=[GitHubUsername]&theme=tokyonight&hide_border=true"/> </p>--# 📈 Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph? username=[GitHubUsername]&theme=tokyo-night"/> </p>--# 🏆 GitHub Trophies <p align="center"><img src="https://github-profile-trophy.vercel.app/? username=[GitHubUsername]&theme=tokyonight&no-frame=true&marginw=10"/> </p>--# 🛠 Currently Working On- 🚀 Building full-stack web applications.- 🌱 Learning advanced React ecosystem.- ☁️ Exploring cloud deployment and DevOps.- 📱 Improving responsive UI/UX design.--# 📚 Currently Learning- TypeScript- Next.js- Docker- AWS- System Design- Backend Architecture--# 🎯 Goals for 2025- ✅ Contribute to Open Source- ✅ Build SaaS Applications- ✅ Master Full Stack Development- ✅ Learn Cloud Computing- ✅ Grow My Developer Portfolio--# 💡 Favorite Quote> "Code is like humor. When you have to explain it, it's bad." – Cory House--<p align="center"> <img src="https://komarev.com/ghpvc/? username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla t"/> </p>--<h3 align="center"> ⭐ Thanks for visiting my profile! ⭐ </h3> <p align="center"> If you like my work, consider giving a ⭐ to my repositories and connecting with me. </p>
+<h1 align="center">KIRUBA SRI S</h1>
+
+<h3 align="center">
+Full Stack Developer | Python & Django | React & Next.js
+</h3>
+
+<p align="center">
+MCA Student | Software Development | Problem Solving
+</p>
+
+<p align="center">
+<a href="https://github.com/kirubasrisivakumar-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/kiruba-sri-s-795797343/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:kirubasrisivakumar@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+---
+
+## About Me
+
+I am an MCA student and aspiring **Full Stack Developer** with a strong interest in building responsive, scalable, and user-focused web applications.
+
+My primary development experience includes **Python, Django, JavaScript, React.js, and Next.js**, along with database technologies such as **MySQL and MongoDB**.
+
+I enjoy turning ideas into practical applications and continuously improving my skills through projects, technical learning, and problem solving.
+
+Currently seeking **fresher and entry-level software development opportunities** where I can contribute, learn, and grow as a developer.
+
+---
+
+## Technical Skills
+
+**Programming Languages**  
+Python · JavaScript · C · C++ · PHP
+
+**Frontend Development**  
+HTML5 · CSS3 · JavaScript · React.js · Next.js · Bootstrap
+
+**Backend Development**  
+Python · Django · Node.js · Express.js
+
+**Databases**  
+MySQL · MongoDB · Firebase
+
+**Tools & Technologies**  
+Git · GitHub · VS Code · Figma · Postman · Vite
+
+**Currently Learning**  
+TypeScript · AWS · Docker · System Design · Backend Architecture
+
+---
+
+## Featured Projects
+
+### Greentiq CRM Dashboard
+
+A responsive CRM dashboard developed for managing and visualizing customer information through a modern web interface.
+
+**Technologies:** Next.js · React · TypeScript · JavaScript
+
+---
+
+### Dusky Bites – Bakery Management Website
+
+A web application developed for a home bakery to showcase products and simplify customer ordering.
+
+**Technologies:** Python · Django · HTML · CSS · JavaScript · MySQL
+
+**Key Features:** Product showcase · Cart functionality · Responsive UI · WhatsApp ordering
+
+---
+
+### Insurance Management System
+
+A web-based insurance management application developed during my Python/Django internship.
+
+**Technologies:** Python · Django · HTML · CSS · JavaScript · MySQL
+
+---
+
+### Deep Acoustic Intelligence
+
+An academic research project focused on real-time localization in mobile underwater sensor networks using a hybrid **CNN–LSTM framework**.
+
+**Technologies & Concepts:** Python · CNN · LSTM · Deep Learning · IoT · Edge AI
+
+---
+
+## Internship Experience
+
+### Python Developer Intern
+**One Data Software Solutions Pvt. Ltd.**
+
+Developed an **Insurance Management System using Python and Django**, gaining practical experience in backend development, database integration, web application development, and debugging.
+
+---
+
+## Achievement
+
+**Best Presentation – InnoBlitz 2.0**
+
+Presented **SmartQueue AI** as a member of the **NextGen Thinkers** team.
+
+---
+
+## Education
+
+**Master of Computer Applications (MCA)**  
+Kalaignarkarunanidhi Institute of Technology, Coimbatore
+
+**Bachelor of Commerce – Computer Applications (B.Com CA)**  
+Dr. N.G.P. Arts and Science College, Coimbatore
+
+---
+
+## Career Focus
+
+I am interested in opportunities related to:
+
+- Full Stack Development
+- Python / Django Development
+- Frontend Development
+- React / Next.js Development
+- Software Engineering
+
+---
+
+<p align="center">
+<b>Open to learning, collaboration, and opportunities in software development.</b>
+</p>
